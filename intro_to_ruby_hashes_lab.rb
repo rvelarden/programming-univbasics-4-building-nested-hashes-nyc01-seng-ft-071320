@@ -5,7 +5,7 @@ end
 
 def monopoly_with_second_tier
  base_hash = {:pieces = 4}
-
+base_hash[:additional_characters] = []
 end
 
 def monopoly_with_third_tier
