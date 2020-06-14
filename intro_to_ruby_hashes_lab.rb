@@ -1,8 +1,7 @@
 def bash_hash
  key = {
    :railroads => [
-            {name: "Benvolio", age: "17", attitude: "worried"},
-            {name: "Mercutio", age: "18", attitude: "hot-headed"}
+            
  }
 
 end
