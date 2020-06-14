@@ -1,7 +1,6 @@
 def bash_hash
 bash_hash[:railroads] = []
-prince = { name: "Prince Escalus" }
-apothecary = { name: "Apothecary" }
+
 end
 
 def monopoly_with_second_tier
