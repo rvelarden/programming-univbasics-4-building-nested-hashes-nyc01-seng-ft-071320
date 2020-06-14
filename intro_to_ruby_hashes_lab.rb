@@ -4,8 +4,10 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-base_hash[:railroads] = { :pieces => 4 },
-
+base_hash = { :pieces => 4 },
+ :hero_friends => [
+            {name: "Benvolio", age: "17", attitude: "worried"},
+            {name: "Mercutio", age: "18", attitude: "hot-headed"}
 end
 
 def monopoly_with_third_tier
