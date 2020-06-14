@@ -6,7 +6,7 @@ end
 def monopoly_with_second_tier
 base_hash {
  :railroads => [
-            {name: "Benvolio", age: "17", attitude: "worried"},
+            {:pieces => "4"},
             {name: "Mercutio", age: "18", attitude: "hot-headed"}
 }
 end
