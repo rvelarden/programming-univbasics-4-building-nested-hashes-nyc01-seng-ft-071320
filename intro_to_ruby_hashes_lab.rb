@@ -1,5 +1,5 @@
 def bash_hash
-epic_tragedy[:additional_characters] = []
+epic_tragedy[:railroads] = []
 end
 
 def monopoly_with_second_tier
